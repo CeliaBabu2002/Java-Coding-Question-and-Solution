@@ -1,3 +1,3 @@
 public class CharRepeat {
-    
+    dwq
 }
